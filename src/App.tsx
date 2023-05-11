@@ -39,10 +39,10 @@ function App() {
 						src='./assets/images/logo.svg'
 						alt='logo'
 					/>
-					<h2 className='lg:mt-[41px] mt-[70px] lg:text-[48px] text-[45px] tracking-[-0.01rem]'>
+					<h1 className='lg:mt-[41px] mt-[70px] lg:text-[48px] text-[45px] tracking-[-0.01rem]'>
 						<span className='text-my-gray'>We are launching</span>
 						<span className='font-bold'> soon!</span>
-					</h2>
+					</h1>
 					<p className='lg:mt-2 mt-[30px] lg:text-xl text-2xl'>
 						Subscribe and get notified
 					</p>
