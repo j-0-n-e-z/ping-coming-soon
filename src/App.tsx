@@ -91,20 +91,23 @@ function App() {
 						href='https://www.facebook.com'
 						target='_blank'
 						className='brand-icon'
-					>
+						aria-label='facebook'
+						>
 						<FontAwesomeIcon icon={faFacebookF} />
 					</a>
 					<a
 						href='https://www.twitter.com'
 						target='_blank'
 						className='brand-icon'
-					>
+						aria-label='twitter'
+						>
 						<FontAwesomeIcon icon={faTwitter} />
 					</a>
 					<a
 						href='https://www.instagram.com'
 						target='_blank'
 						className='brand-icon lg:text-base text-[34px]'
+						aria-label='instagram'
 					>
 						<FontAwesomeIcon icon={faInstagram} />
 					</a>
