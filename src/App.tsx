@@ -85,7 +85,7 @@ function App() {
 					/>
 				</section>
 			</main>
-			<footer className='mt-28 flex flex-col items-center'>
+			<footer className='lg:mt-0 mt-28 lg:gap-y-5 gap-y-12 flex flex-col items-center'>
 				<div className='flex lg:gap-x-3 gap-x-5 lg:text-sm text-[28px]'>
 					<a
 						href='https://www.facebook.com'
@@ -109,7 +109,7 @@ function App() {
 						<FontAwesomeIcon icon={faInstagram} />
 					</a>
 				</div>
-				<p className='lg:mb-10 lg:mt-6 mt-[50px] mb-[70px] text-my-gray lg:text-[13px] text-xl'>
+				<p className='lg:mb-10 mb-[70px] text-my-gray lg:text-[13px] text-xl'>
 					© Copyright Ping. All rights reserved.
 				</p>
 			</footer>
