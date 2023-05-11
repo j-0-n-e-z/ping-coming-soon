@@ -85,7 +85,7 @@ function App() {
 					/>
 				</section>
 			</main>
-			<footer className='lg:mt-0 mt-28 lg:gap-y-5 gap-y-12 flex flex-col items-center'>
+			<footer className='mt-28 lg:gap-y-5 gap-y-12 flex flex-col items-center'>
 				<div className='flex lg:gap-x-3 gap-x-5 lg:text-sm text-[28px]'>
 					<a
 						href='https://www.facebook.com'
